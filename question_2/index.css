@@ -1,4 +1,4 @@
-.pie {
+.round {
     position: relative;
     margin: 1em auto;
     border: 1px solid white;
@@ -8,7 +8,7 @@
     list-style: none;
   }
   
-  .pie-1 {
+  .round-1 {
     position: relative;
     margin: 6em auto;
     border: 1px solid white;
@@ -18,7 +18,7 @@
     list-style: none;
   }
 
-  .pie-2 {
+  .round-2 {
     position: relative;
     margin: 5em auto;
     border: 1px solid white;
@@ -27,7 +27,7 @@
     border-radius: 50%;
     list-style: none;
   }
-  .pie-3 {
+  .round-3 {
     position: relative;
     margin: 5em auto;
     border: 1px solid red;
