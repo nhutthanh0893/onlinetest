@@ -1,0 +1,43 @@
+.pie {
+    position: relative;
+    margin: 1em auto;
+    border: 1px solid white;
+    padding: 0;
+    width: 42em; height: 42em;
+    border-radius: 50%;
+    list-style: none;
+  }
+  
+  .pie-1 {
+    position: relative;
+    margin: 6em auto;
+    border: 1px solid white;
+    padding: 0;
+    width: 30em; height: 30em;
+    border-radius: 50%;
+    list-style: none;
+  }
+
+  .pie-2 {
+    position: relative;
+    margin: 5em auto;
+    border: 1px solid white;
+    padding: 0;
+    width: 20em; height: 20em;
+    border-radius: 50%;
+    list-style: none;
+  }
+  .pie-3 {
+    position: relative;
+    margin: 5em auto;
+    border: 1px solid red;
+    padding: 0;
+    width: 10em; height: 10em;
+    border-radius: 50%;
+    list-style: none;
+  }
+
+  .img-radius {
+      border-radius:50%;
+      width:50px;
+  }
